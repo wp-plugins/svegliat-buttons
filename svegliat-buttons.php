@@ -3,7 +3,7 @@
 Plugin Name: SvegliaT Buttons
 Plugin URI: http://www.svegliatemplate.com/wordpress-svegliat-buttons/
 Description: Add a shortcode in your wordpress to visualize nice and colored buttons.
-Version: 1.0.1
+Version: 1.0.2
 Author: Mario Di Pasquale
 Author URI: http://www.svegliadesign.com
 */
